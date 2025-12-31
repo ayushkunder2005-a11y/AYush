@@ -1,0 +1,8 @@
+{
+  "name": "NeuroPulse: Cognitive Evolution Lab",
+  "description": "An advanced AI-powered learning and cognitive training platform featuring neuro-adaptive challenges, emotion-aware feedback, and personalized mental growth tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
